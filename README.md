@@ -1,5 +1,5 @@
 # Portfolio
-This a Portfolio developed by me using HTML, CSS and JavaScript, under the internship of Oasis Infobyte.
+This is a Portfolio developed by me using HTML, CSS and JavaScript, under the internship of Oasis Infobyte.
 
 It contains the following information:
   - Header
